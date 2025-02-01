@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <title>Noticias</title>
+    <link>https://mrmts1.github.io/noticiaRSS.html</link>
+    <description>Últimas noticias .</description>
+    <language>es</language>
+    
+    <item>
+        <title>Características del Pez Dragón de Agua</title>
+        <link>https://mrmts1.github.io/noticiaRSS.html</link>
+        <description>El pez dragón de agua es una criatura fascinante que habita en las profundidades oceánicas. Es conocido por su apariencia única y sus habilidades bioluminiscentes.</description>
+        <pubDate>Fri, 01 Feb 2025 12:00:00 GMT</pubDate>
+    </item>
+</channel>
+</rss>
